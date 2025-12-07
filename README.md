@@ -1,6 +1,9 @@
 # Virtual_Water_Tank_SCADA_Simulation
 This project is a software-based SCADA simulation of a water tank system. It demonstrates real-time monitoring, sensor indicators, and automated control logic.
 **Objective:** Simulate a SCADA system to monitor water levels and control a pump, showcasing real-time automation and data visualization.
+## Demo Video
+
+![Watch Virtual SCADA Demo](demo.mp4)](demo.mp4)
 
 ---
 
